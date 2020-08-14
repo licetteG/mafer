@@ -42,7 +42,7 @@ echo "<h1> Bienvenida cumpleañera ".$n." y que tengas un bonito día </h1>";
 			<img class="Header-image" src="images/2020.jpg" alt="Imagen Personal" width="20%" height="30%">
 		</figure>
 
-<video  src="video/globos3.mp4" controls autoplay loop ></video>
+<video  src="video/globos3.mp4" controls autoplay loop muted ></video>
 
 
 </body>
