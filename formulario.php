@@ -11,30 +11,25 @@
 
 <body>
 
-	<nav  class="MainMenu">
+<nav  class="MainMenu">
 
+<ul class="MainMenu-list">
 
-			<ul class="MainMenu-list">
+	<marquee>
+		
+<?php
 
-			<marquee>
-				<?php
-//validacion del formulario
 
 $n = $_POST["nombre"];
 echo "<h1> Bienvenida cumpleañera ".$n." y que tengas un bonito día </h1>";
 
 
 ?>
-				</marquee>	
-			</ul>
-		</nav>
+	</marquee>	
+</ul>
+</nav>
 
 
-	<marquee>
-	
-	
-
-	</marquee>
 
 
 
